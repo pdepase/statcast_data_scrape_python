@@ -1,6 +1,8 @@
 # statcast_data_scrape_python
 This allows you to scrape Statcast pitch level data from baseballsavant.mlb.com
 
+Make sure to save all files to a folder and adjust line 20 of the code to tell python where all the files are.
+
 Read in the 4 functions and put your date in quotation marks to the function Add_to_statcast2024.
 
 An example will be: Add_to_statcast2024('2024-05-06', '2024-05-06')
